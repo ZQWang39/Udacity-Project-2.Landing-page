@@ -411,7 +411,7 @@ h1,h2,h3{
 .footer-section {
     height: auto;
     min-height: 30vh;
-    background: rgb(61, 170, 221);
+    background: rgb(127, 207, 245)
     
 }
 .footer-container{
@@ -477,7 +477,7 @@ h1,h2,h3{
     float: left;
     padding-top: 30px;
     text-align: center;
-    background-color:  rgb(61, 170, 221);
+    background-color:  rgb(127, 207, 245);
     color: white;
     
 }
