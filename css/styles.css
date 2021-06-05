@@ -23,7 +23,7 @@ h1,h2,h3{
 
 /* header styles */
 .sticky .nav-holder {
-    background:  rgb(61, 170, 221);
+    background:  rgb(127, 207, 245);
     padding-top: 5px;
     z-index: 99;
 }
@@ -32,7 +32,7 @@ h1,h2,h3{
     text-align: center;
     position: fixed;
     width: 100%;
-    background:  rgb(61, 170, 221);
+    background:  rgb(127, 207, 245);
     padding-top: 10px;
     transition: 0.3s;
 }
