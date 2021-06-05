@@ -494,6 +494,19 @@ h1,h2,h3{
     .about-img {
         width: 300px;
     }
+    .navigation ul {
+        margin-left: 40px;
+        
+    }
+
+    .navigation ul li{
+        margin-top: 10px;   
+    }
+
+    .navigation ul li:hover{
+        color:rgb(127, 207, 245);
+          
+    }
 
     
 
