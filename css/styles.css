@@ -22,6 +22,8 @@ h1,h2,h3{
   
 
 /* header styles */
+
+
 .sticky .nav-holder {
     background:  rgb(127, 207, 245);
     padding-top: 5px;
@@ -70,19 +72,16 @@ h1,h2,h3{
 
 }
 
-
 .logo{
-    padding-bottom: 20px;
+    margin-bottom: 25px;
 }
-.logo img {
-    text-align: center;
-    width: 50px;
-    padding-top: 0.5em;
-    
-}
+
 .logo a{
+    font-family:'Pacifico', 'cursive';
+    font-size: 35px;
+    color:rgb(100, 99, 99);
     text-align: center;
-    color: white;
+
 }
 
 .nav-toggle-label {
