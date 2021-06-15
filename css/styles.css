@@ -224,6 +224,7 @@ button:hover {
 
 .about-text button{
     padding: 8px 20px;
+    margin-top: 15px;
     color:white;
     background: rgb(61, 170, 221);
     border-radius: 5px;
@@ -232,8 +233,7 @@ button:hover {
     font-weight: bold;
     transition: 0.2s;
     border: none; 
-    float: right;
-}  
+}
 
 .about-text button:hover {
     background: rgb(27, 82, 233);
@@ -510,7 +510,6 @@ button:hover {
         color:rgb(127, 207, 245);
           
     }
-
     
 
 }
