@@ -189,8 +189,10 @@ h1,h2,h3{
     transition: 0.2s;
     border: none; 
 }  
-.main-heading button:hover {
+
+button:hover {
     background: rgb(27, 82, 233);
+    cursor: pointer;
 }
 
 /* about styles */
@@ -232,8 +234,10 @@ h1,h2,h3{
     border: none; 
     float: right;
 }  
+
 .about-text button:hover {
     background: rgb(27, 82, 233);
+    cursor: pointer;
 }
 
 /* plans styles */
