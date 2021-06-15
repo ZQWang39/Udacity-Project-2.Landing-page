@@ -407,8 +407,14 @@ button:hover {
       margin-top: 5px;
   }
 
+
   .register-content button:hover{
     background-color:rgb(27, 82, 233);
+    font-weight:bold;
+    font-size: larger;
+  }
+  .register-content button:active{
+      background-color: rgb(214, 21, 231);
   }
 
 
