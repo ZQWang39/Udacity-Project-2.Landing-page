@@ -374,7 +374,16 @@ button:hover {
     max-width: 500px;
     min-height: 200px;
     margin: 10px;
+   
   }
+  .register-container h1{
+      margin-bottom: 20px;
+  }
+
+  .register-area:hover {
+    transform: scale(1.25);
+    transition: .5s;
+}
 
   .register-content {
     display: flex;
