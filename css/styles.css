@@ -488,7 +488,8 @@ button:hover {
     width: 100%;
     height:20%;
     float: left;
-    padding-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 5px;
     text-align: center;
     background-color:  rgb(127, 207, 245);
     color: white;
