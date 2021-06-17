@@ -370,7 +370,7 @@ button:hover {
     justify-content: center;
     border: 1px solid #c9c9c9;
     border-radius: 10px;
-    background-color: white;
+    background-color: rgba(52, 153, 48, 0.02);
     height: 30%;
     min-width: 300px;
     max-width: 500px;
