@@ -352,6 +352,7 @@ button:hover {
 
 .register-section {
     height:80vh;
+    background-color: rgba(9, 255, 0, 0.155);
 }
 .register-container{
     max-width: 1200px;
