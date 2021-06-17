@@ -425,7 +425,7 @@ button:hover {
     font-size: larger;
   }
   .register-content button:active{
-      background-color: rgb(214, 21, 231);
+      background-color: rgba(52, 153, 48, 0.8)
   }
 
 
