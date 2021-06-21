@@ -30,6 +30,7 @@ navMenuContainer.addEventListener('click', function(e) {
 
 // get all sections that have an ID defined
 const sections = document.querySelectorAll("section[id]");
+//console.log(sections);
 
 // add an event listener listening for scroll
 window.addEventListener("scroll", navHighlighted);
@@ -42,7 +43,7 @@ function navHighlighted() {
   // loop through sections to get height, top and ID values for each
   sections.forEach(function(s){
     const sectionHeight = s.offsetHeight;
-    const sectionTop = s.offsetTop-50;
+    const sectionTop = s.offsetTop-30;
     sectionID = s.getAttribute("id");
     
     /*

@@ -433,19 +433,14 @@ button:hover {
 
 
 .footer-section {
-    height: auto;
-    min-height: 22vh;
-    background: rgb(127, 207, 245)
-    
-}
-.footer-container{
     width: 100%;
-    height: auto;
+    height:150px;
+    background: rgb(127, 207, 245);
+    
 }
 
 .social-media{
     width:50%;
-    height: 80%;
     float: left;
     
 }
@@ -474,7 +469,6 @@ button:hover {
 
 .contact-info {
     width:50%;
-    height: 80%;
     float: right;
 }
 
@@ -502,14 +496,13 @@ button:hover {
     padding-top: 20px;
     padding-bottom: 5px;
     text-align: center;
-    background-color:  rgb(127, 207, 245);
     color: white;
     
 }
 
 
 
-@media (min-width:431px) and (max-width:1080px) {
+@media (min-width:365px) and (max-width:1080px) {
     /* home media styles */
     .main-img {
         width: 250px;
@@ -534,6 +527,9 @@ button:hover {
     }
     .main-heading button{
         margin-top: 10px;
+    }
+    .footer-section{
+        height: 250px;
     }
     
 
